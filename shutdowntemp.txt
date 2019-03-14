@@ -1,0 +1,1 @@
+javaw  -Xms600M -Xmx600M -Xmn300M -Xss256k -XX:PermSize=100m -XX:MaxPermSize=200m -jar TestJar.jar  45276      
